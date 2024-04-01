@@ -20,7 +20,7 @@ else:
 answer = input('What does GPU stand for?')
 if answer.lower() == 'graphic processing unit':
     print('Correct!')
-    score += 1
+    score += 1 
     
 else: 
     print('Incorrect!')
